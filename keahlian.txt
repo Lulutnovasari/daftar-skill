@@ -13,4 +13,12 @@
 -administrasi infastruktur jaringan 
 -wide area network
 -bimbingan konseling
--dan lain lain
+
+++Skill yang di peroleh dari rucom ++
+-mengetik 10 jari
+-freecodecamp.org nesponsive web design(html,css,hand,javascript)
+-boottable linux
+-Visual Studio Code
+-sololearn (introduction to html,jQuary,introduction javascript,coding for marketers,introction to css,Responsive web design,web development fundamentals)
+-buat akun likdin dan menghubngkan sertifikasi sololearn
+-
